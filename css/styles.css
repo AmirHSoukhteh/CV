@@ -1,22 +1,11 @@
-
 body{
-    background-color: #FFF4E1;
-}
-
-hr {
-    border: none;
-    border-top: 10px dotted #89D7B7;
-    width: 20%;
+    margin: 0px;
 }
 
 h1{
-    color: #1A312C;
+    margin-top: 0px;
 }
 
-h3{
-    color: #1A312C;
-}
-
-p{
-    color: 428475;
+div{
+    background-color: #FBF5DD;
 }
