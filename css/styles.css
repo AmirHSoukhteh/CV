@@ -37,6 +37,9 @@ h3{
     height: auto;
 }
 
+.cool-bg{
+    position:absolute;
+}
 .top-container{
     background-color: #FBF5DD;
     position: relative;
