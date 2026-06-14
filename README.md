@@ -8,8 +8,11 @@ This is my website:
   2. Setting -> Pages -> Build and deployment
   3. Select your branch( or do nothing)
   4. Click save
+     
 wait for it...
+
 wait for it...
+
 your website is ready!
 
 
